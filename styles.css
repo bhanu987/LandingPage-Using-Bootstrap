@@ -1,0 +1,53 @@
+.lead{
+    font-size: 1rem;
+}
+.nav-link{
+    color: gray;
+}
+.feature-icon {
+    width: 3em;
+    height: 3em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25%;
+}
+
+h2 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.feature{
+    border-radius: 10px;
+    width: 19rem;
+}
+.webdev-icon{
+    color: #000;
+}
+.carousel-item{
+    height: 80vh;
+    width: 100%;
+}
+   
+
+#services{
+    background-color: rgb(231 224 224);
+}
+#footer{
+    background-color: #0b5ed7;
+    color: #fff;
+}
+ul li svg{
+    color: #fff;
+}
+
+.card img{
+    border-radius: 5rem;
+    width: 10rem;
+    height: 10rem;
+    margin-left: 4rem;
+
+}
